@@ -1,0 +1,28 @@
+{
+    "produk": [
+      {
+        "id": 1,
+        "nama": "Makanan 1",
+        "deskripsi": "Deskripsi makanan 1",
+        "harga": 50000,
+        "rating": 4,
+        "gambar": "makanan1.jpg"
+      },
+      {
+        "id": 2,
+        "nama": "Makanan 2",
+        "deskripsi": "Deskripsi makanan 2",
+        "harga": 60000,
+        "rating": 5,
+        "gambar": "makanan2.jpg"
+      },
+      {
+        "id": 3,
+        "nama": "Makanan 3",
+        "deskripsi": "Deskripsi makanan 3",
+        "harga": 70000,
+        "rating": 3,
+        "gambar": "makanan3.jpg"
+      }
+    ]
+  }
